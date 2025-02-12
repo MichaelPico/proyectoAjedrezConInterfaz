@@ -23,4 +23,4 @@ En caso de querer probar la funcionalidad de el tablero es recomendado activar e
 
 ### Vista Previa
 
-![Preview](https://i.imgur.com/csrIXQL.gif)
+![Preview](https://github.com/MichaelPico/proyecto-ajedrez-con-interfaz/blob/main/SC5B56~1.gif)
